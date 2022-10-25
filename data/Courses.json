@@ -1,0 +1,89 @@
+[
+  {
+    "course_code": 101,
+    "course_name": "C Programming",
+    "course_image": "/c.png"
+    
+  },
+  {
+    "course_code": 102,
+    "course_name": "C++ Programming",
+    "course_image": "/c++.png"
+    
+  },
+  {
+    "course_code": 103,
+    "course_name": "Java Programming",
+    "course_image": "/java.png"
+    
+  },
+  {
+    "course_code": 201,
+    "course_name": "Python Programming",
+    "course_image": "/python.png"
+  
+  },
+  {
+    "course_code": 202,
+    "course_name": "Graphics Design",
+    "course_image": "/graphic.png"
+  
+  },
+  {
+    "course_code": 203,
+    "course_name": "Algorithms",
+    "course_image": "/algo.png"
+  
+  },
+  {
+    "course_code": 301,
+    "course_name": "Data Structure",
+    "course_image": "/data.png"
+  },
+  {
+    "course_code": 302,
+    "course_name": "Machine Learning",
+    "course_image": "/ml.png"
+  },
+  {
+    "course_code": 401,
+    "course_name": "Database Management",
+    "course_image": "/rdbms.png"
+    
+  },
+  {
+    "course_code": 402,
+    "course_name": "Web Architecture",
+    "course_image": "/webarchi.png"
+    
+  },
+  {
+    "course_code": 403,
+    "course_name": "Data Mining",
+    "course_image": "/dm.png"
+    
+  },
+  {
+    "course_code": 303,
+    "course_name": "Artificial Intelligence",
+    "course_image": "/ai.png"
+  },
+  {
+    "course_code": 501,
+    "course_name": "Web Programming",
+    "course_image": "/webprogramming.png"
+    
+  },
+  {
+    "course_code": 502,
+    "course_name": "Digital Image Processing",
+    "course_image": "/dip.png"
+    
+  },
+  {
+    "course_code": 503,
+    "course_name": "Digital Image Processing",
+    "course_image": "/dsp.png"
+    
+  }
+]

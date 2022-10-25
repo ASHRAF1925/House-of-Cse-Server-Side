@@ -1,0 +1,38 @@
+[
+  {
+    "instructor_id": 1,
+    "instructor_name": "C Programming",
+    "instructor_image": "/1.png",
+    "instructor_rating":8
+    
+  },
+  {
+    "instructor_id": 2,
+    "instructor_name": "C++ Programming",
+    "instructor_image": "/2.png",
+    "instructor_rating":8
+    
+  },
+  {
+    "instructor_id":3,
+    "instructor_name": "Java Programming",
+    "instructor_image": "/3.png",
+    "instructor_rating":8
+    
+  },
+  {
+    "instructor_id": 4,
+    "instructor_name": "Python Programming",
+    "instructor_image": "/4.png",
+    "instructor_rating":8
+  
+  },
+  {
+    "instructor_id": 5,
+    "instructor_name": "Graphics Design",
+    "instructor_image": "/5.png",
+    "instructor_rating":8
+  
+  }
+ 
+]
