@@ -2,7 +2,7 @@
   {
     "course_code": 101,
     "course_name": "C Programming",
-    "course_image": "/c.png",
+    "course_image": "https://iili.io/DrYLfn.md.webp",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 12,
     "Price": 1000,
@@ -13,7 +13,7 @@
   {
     "course_code": 102,
     "course_name": "C++ Programming",
-    "course_image": "/c++.png",
+    "course_image": "https://iili.io/DrYDJf.md.png",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 15,
     "Price": 1000,
@@ -24,7 +24,7 @@
   {
     "course_code": 103,
     "course_name": "Java Programming",
-    "course_image": "/java.png",
+    "course_image": "https://iili.io/Dra30u.md.webp",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 20,
     "Price": 1500,
@@ -35,7 +35,7 @@
   {
     "course_code": 201,
     "course_name": "Python Programming",
-    "course_image": "/python.png",
+    "course_image": "https://iili.io/DraCbV.md.webp",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 15,
     "Price": 2000,
@@ -46,7 +46,7 @@
   {
     "course_code": 202,
     "course_name": "Graphics Design",
-    "course_image": "/graphic.png",
+    "course_image": "https://iili.io/Dra2fe.md.jpgImages/courses image/graphic.png",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 10,
     "Price": 1000,
@@ -57,7 +57,7 @@
   {
     "course_code": 203,
     "course_name": "Algorithms",
-    "course_image": "/algo.png",
+    "course_image": "https://iili.io/DrYpb2.md.png",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 20,
     "Price": 3000,
@@ -68,7 +68,7 @@
   {
     "course_code": 301,
     "course_name": "Data Structure",
-    "course_image": "/data.png",
+    "course_image": "https://iili.io/DrYZUG.md.jpg",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 25,
     "Price": 2500,
@@ -79,7 +79,7 @@
   {
     "course_code": 302,
     "course_name": "Machine Learning",
-    "course_image": "/ml.png",
+    "course_image": "https://iili.io/DraBOQ.md.jpg",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 30,
     "Price": 5000,
@@ -90,7 +90,7 @@
   {
     "course_code": 401,
     "course_name": "Database Management",
-    "course_image": "/rdbms.png",
+    "course_image": "https://iili.io/DrafJj.md.jpg",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 19,
     "Price": 2000,
@@ -101,7 +101,7 @@
   {
     "course_code": 402,
     "course_name": "Web Architecture",
-    "course_image": "/webarchi.png",
+    "course_image": "https://iili.io/Draq5x.md.jpg",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 20,
     "Price": 5000,
@@ -112,7 +112,7 @@
   {
     "course_code": 403,
     "course_name": "Artificial Intelligence",
-    "course_image": "/ai.png",
+    "course_image": "https://iili.io/DrYQls.md.jpg",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 20,
     "Price": 3000,
@@ -123,7 +123,7 @@
   {
     "course_code": 303,
     "course_name": "Data Mining",
-    "course_image": "/dm.png",
+    "course_image": "https://iili.io/DraFUb.md.jpg",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 22,
     "Price": 2500,
@@ -134,7 +134,7 @@
   {
     "course_code": 501,
     "course_name": "Web Programming",
-    "course_image": "/webprogramming.png",
+    "course_image": "https://iili.io/DraozB.md.jpg",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 22,
     "Price": 5000,
@@ -145,7 +145,7 @@
   {
     "course_code": 502,
     "course_name": "Digital Image Processing",
-    "course_image": "/dip.png",
+    "course_image": "https://iili.io/DraJs9.md.jpg",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 25,
     "Price": 6000,
@@ -155,8 +155,8 @@
   },
   {
     "course_code": 503,
-    "course_name": "Digital Image Processing",
-    "course_image": "/dsp.png",
+    "course_name": "Digital Signal Processing",
+    "course_image": "https://iili.io/DrYmOl.md.jpg",
     "course_description": "Computer Science and Engineering (CSE) is an academic program at many universities which comprises scientific and engineering aspects of computing. CSE is also a term often used in Europe to translate the name of engineering informatics academic programs. It is offered in both Undergraduate as well Postgraduate with specializations.[1]",
     "Duration": 25,
     "Price": 3500,

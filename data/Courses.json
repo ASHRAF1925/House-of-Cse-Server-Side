@@ -2,87 +2,102 @@
   {
     "course_code": 101,
     "course_name": "C Programming",
+    "Rating": 5,
     "course_image": "/c.png"
     
   },
   {
     "course_code": 102,
     "course_name": "C++ Programming",
+    "Rating": 7,
     "course_image": "/c++.png"
     
   },
   {
     "course_code": 103,
     "course_name": "Java Programming",
+    "Rating": 6,
     "course_image": "/java.png"
     
   },
   {
     "course_code": 201,
     "course_name": "Python Programming",
+    "Rating": 6,
     "course_image": "/python.png"
   
   },
   {
     "course_code": 202,
     "course_name": "Graphics Design",
+    "Rating": 7,
     "course_image": "/graphic.png"
   
   },
   {
     "course_code": 203,
     "course_name": "Algorithms",
+    "Rating": 9,
     "course_image": "/algo.png"
   
   },
   {
     "course_code": 301,
     "course_name": "Data Structure",
+    "Rating": 9,
     "course_image": "/data.png"
   },
   {
     "course_code": 302,
     "course_name": "Machine Learning",
+    "Rating": 10,
     "course_image": "/ml.png"
   },
   {
     "course_code": 401,
     "course_name": "Database Management",
+    "Rating": 6,
     "course_image": "/rdbms.png"
     
   },
   {
     "course_code": 402,
     "course_name": "Web Architecture",
+    "Rating": 8,
     "course_image": "/webarchi.png"
     
   },
   {
     "course_code": 403,
     "course_name": "Data Mining",
+    "Rating": 7,
     "course_image": "/dm.png"
     
   },
   {
     "course_code": 303,
     "course_name": "Artificial Intelligence",
+    "Rating": 7,
     "course_image": "/ai.png"
   },
   {
     "course_code": 501,
     "course_name": "Web Programming",
+    "Rating": 8,
     "course_image": "/webprogramming.png"
     
   },
   {
     "course_code": 502,
     "course_name": "Digital Image Processing",
+    "Rating": 9,
     "course_image": "/dip.png"
     
   },
   {
     "course_code": 503,
     "course_name": "Digital Image Processing",
+    "Rating": 7,
     "course_image": "/dsp.png"
     
   }

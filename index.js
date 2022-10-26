@@ -19,6 +19,10 @@ app.get('/courses',(req,res)=>{
     res.send(courses);
 
 });
+app.get('/courses_details',(req,res)=>{
+    res.send(course);
+
+});
 
 // sending all the instructors informations
 app.get('/instructors',(req,res)=>{
